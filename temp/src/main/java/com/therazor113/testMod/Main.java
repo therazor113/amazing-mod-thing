@@ -25,8 +25,7 @@ public class Main {
     public void PostInit (FMLPostInitializationEvent E){
         this.proxy.PostInit(E);
     }
-
-// hi this is a test
+    
 
 
 
